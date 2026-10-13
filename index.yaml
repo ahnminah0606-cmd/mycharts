@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  sk258-myfirst-helmchart:
+  - apiVersion: v2
+    appVersion: 1.0.buildkit-pod
+    created: "2026-10-13T09:29:16.260567+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 6162df41775fde31c281d597d90d40f61e2b95b60c47060756891da732122ed7
+    name: sk258-myfirst-helmchart
+    type: application
+    urls:
+    - https://ahnminah0606-cmd.github.io/mycharts/sk258-myfirst-helmchart-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.0.buildkit-pod
+    created: "2026-10-13T09:29:16.260271+09:00"
+    description: A Helm chart for Kubernetes
+    digest: dcf8b57ab40e149f6007e57665b07c21ee5102a6a6c063935a1d50eaaace9741
+    name: sk258-myfirst-helmchart
+    type: application
+    urls:
+    - https://ahnminah0606-cmd.github.io/mycharts/sk258-myfirst-helmchart-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-10-13T09:29:16.260018+09:00"
